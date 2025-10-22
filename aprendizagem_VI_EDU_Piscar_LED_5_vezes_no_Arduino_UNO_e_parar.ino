@@ -14,9 +14,9 @@
    for (int i=0; i<5; i++) {
 
 digitalWrite(led, HIGH);
-delay(100);
+delay(200);
 digitalWrite(led, LOW);
-delay(100);
+delay(200);
    }
 
    delay(1000);
